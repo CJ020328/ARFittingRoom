@@ -134,9 +134,13 @@ In **Unity Package Manager** (`Window > Package Manager`):
 
 ## **Future Improvements**
 🚀 Database Integration – Implement a database system for managing and dynamically loading garments.
+
 🚀 Advanced Garment Materials – Improve visual quality with detailed textures, patterns, and dynamic lighting effects.
+
 🚀 Full-Body Tracking – Extend support to lower-body garments with robust motion capture for a more immersive experience.
+
 🚀 Improved Clothing Movement Tracking – Develop advanced algorithms for skeletal tracking and garment positioning to enhance movement accuracy.
+
 🚀 Advanced Rigging Techniques – Implement professional rigging methods like weight painting and bone constraints to improve garment movement realism.
 
 ---
