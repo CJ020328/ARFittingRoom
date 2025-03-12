@@ -51,9 +51,7 @@ The repository includes smaller model files (Jacket and Skirt) which are suffici
 
 ### **📌 Programming Languages**
 - **C#** – Core scripting in Unity.
-- **Python** – Used for some Blender automation.
-- **Unity ShaderLab** – Custom material handling.
-
+- 
 ### **🔧 Hardware**
 - **Microsoft Kinect Sensor** – Tracks body movements for AR garment overlay.
 - **High-performance PC** – Needed for real-time rendering and Kinect processing.
