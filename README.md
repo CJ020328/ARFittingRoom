@@ -149,7 +149,7 @@ In **Unity Package Manager** (`Window > Package Manager`):
 
 🧥 Real-Time Garment Positioning
 Dynamically adjusts the clothing models based on the user's movements, ensuring garments rotate and move in sync with body motion for a seamless virtual try-on experience.
-https://github.com/CJ020328/ARFittingRoom/blob/master/AFRScreenshot/RealTimeGarmentPositioning.png
+(https://github.com/CJ020328/ARFittingRoom/blob/master/AFRScreenshot/RealTimeGarmentPositioning.png)
 
 👗 Clothing Selection
 Users can browse and select different clothing models via an interactive UI. Once selected, the garment is applied to the user's tracked body, allowing for quick outfit changes.
