@@ -133,14 +133,30 @@ In **Unity Package Manager** (`Window > Package Manager`):
 ---
 
 ## **Future Improvements**
-🚀 **Enhanced AI-Based Fitting** – Use ML models for better garment draping.  
-🚀 **Mobile Compatibility** – Extend support for AR-enabled smartphones.  
-🚀 **Expanded Garment Library** – More clothing options with dynamic textures.
+🚀 Database Integration – Implement a database system for managing and dynamically loading garments.
+🚀 Advanced Garment Materials – Improve visual quality with detailed textures, patterns, and dynamic lighting effects.
+🚀 Full-Body Tracking – Extend support to lower-body garments with robust motion capture for a more immersive experience.
+🚀 Improved Clothing Movement Tracking – Develop advanced algorithms for skeletal tracking and garment positioning to enhance movement accuracy.
+🚀 Advanced Rigging Techniques – Implement professional rigging methods like weight painting and bone constraints to improve garment movement realism.
 
 ---
 
 ## **Screenshots**
-(*Add relevant screenshots here*)
+
+🧥 Real-Time Garment Positioning
+Dynamically adjusts the clothing models based on the user's movements, ensuring garments rotate and move in sync with body motion for a seamless virtual try-on experience.
+
+👗 Clothing Selection
+Users can browse and select different clothing models via an interactive UI. Once selected, the garment is applied to the user's tracked body, allowing for quick outfit changes.
+
+📏 Adjustable Garment Sizing
+Allows users to cycle through different garment sizes with a simple button interaction. The system updates the garment size dynamically, providing a more personalized virtual fitting experience.
+
+📸 Screenshot Capture
+Enables users to take screenshots of their virtual try-on experience. A countdown timer provides visual feedback before capturing the image, which is then saved for later reference.
+
+🎨 Garment Color Customization
+Users can change the garment's color using swipe gestures detected by the Kinect sensor. This feature enhances customization, allowing users to preview different color options dynamically.
 
 ---
 
