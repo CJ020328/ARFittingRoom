@@ -149,25 +149,25 @@ In **Unity Package Manager** (`Window > Package Manager`):
 
 🧥 Real-Time Garment Positioning
 Dynamically adjusts the clothing models based on the user's movements, ensuring garments rotate and move in sync with body motion for a seamless virtual try-on experience.
-(https://github.com/CJ020328/ARFittingRoom/blob/master/AFRScreenshot/RealTimeGarmentPositioning.png)
+ ![Screenshot](https://github.com/CJ020328/ARFittingRoom/blob/master/AFRScreenshot/RealTimeGarmentPositioning.png)
 
 👗 Clothing Selection
 Users can browse and select different clothing models via an interactive UI. Once selected, the garment is applied to the user's tracked body, allowing for quick outfit changes.
-https://github.com/CJ020328/ARFittingRoom/blob/master/AFRScreenshot/ClothingSelection.png
-https://github.com/CJ020328/ARFittingRoom/blob/master/AFRScreenshot/ClothingSelection2.png
+![Screenshot](https://github.com/CJ020328/ARFittingRoom/blob/master/AFRScreenshot/ClothingSelection.png)
+![Screenshot](https://github.com/CJ020328/ARFittingRoom/blob/master/AFRScreenshot/ClothingSelection2.png)
 
 📏 Adjustable Garment Sizing
 Allows users to cycle through different garment sizes with a simple button interaction. The system updates the garment size dynamically, providing a more personalized virtual fitting experience.
-https://github.com/CJ020328/ARFittingRoom/blob/master/AFRScreenshot/SizeSelection.png
-https://github.com/CJ020328/ARFittingRoom/blob/master/AFRScreenshot/SizeSelection2.png
+![Screenshot](https://github.com/CJ020328/ARFittingRoom/blob/master/AFRScreenshot/SizeSelection.png)
+![Screenshot](https://github.com/CJ020328/ARFittingRoom/blob/master/AFRScreenshot/SizeSelection2.png)
 
 📸 Screenshot Capture
 Enables users to take screenshots of their virtual try-on experience. A countdown timer provides visual feedback before capturing the image, which is then saved for later reference.
-https://github.com/CJ020328/ARFittingRoom/blob/master/AFRScreenshot/Screenshot.png
+![Screenshot](https://github.com/CJ020328/ARFittingRoom/blob/master/AFRScreenshot/Screenshot.png)
 
 🎨 Garment Color Customization
 Users can change the garment's color using swipe gestures detected by the Kinect sensor. This feature enhances customization, allowing users to preview different color options dynamically.
-https://github.com/CJ020328/ARFittingRoom/blob/master/AFRScreenshot/GarmentColourSelection.png
+![Screenshot](https://github.com/CJ020328/ARFittingRoom/blob/master/AFRScreenshot/GarmentColourSelection.png)
 
 ---
 
